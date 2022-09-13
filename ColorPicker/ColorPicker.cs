@@ -58,8 +58,9 @@ namespace ColorPicker
                     blackgradientpanel.DrawToBitmap(bmp, new Rectangle(0, 0, bmp.Width, bmp.Height));
                     Color clr = bmp.GetPixel(e.X, e.Y);
                     colorpreviewpanel.FillColor = clr;
+                    chromabutton.CheckedState.FillColor = clr;
+                    chromabutton.Refresh();
                     previouspx = e.Location;
-                    label3.Text = (e.X, e.Y).ToString();
                 }
             }
         }
@@ -86,6 +87,8 @@ namespace ColorPicker
             blackgradientpanel.DrawToBitmap(blackgradientpanelbmp, new Rectangle(0, 0, blackgradientpanelbmp.Width, blackgradientpanelbmp.Height));
             Color clr = blackgradientpanelbmp.GetPixel(previouspx.X, previouspx.Y);
             colorpreviewpanel.FillColor = clr;
+            chromabutton.CheckedState.FillColor = clr;
+            chromabutton.Refresh();
         }
 
         private void chromabutton_Click(object sender, EventArgs e)
