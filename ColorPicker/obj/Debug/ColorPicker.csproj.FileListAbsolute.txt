@@ -1,0 +1,14 @@
+G:\C#\Sources\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe.config
+G:\C#\Sources\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe
+G:\C#\Sources\ColorPicker\ColorPicker\bin\Debug\ColorPicker.pdb
+G:\C#\Sources\ColorPicker\ColorPicker\bin\Debug\Guna.UI2.dll
+G:\C#\Sources\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csproj.AssemblyReference.cache
+G:\C#\Sources\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csproj.SuggestedBindingRedirects.cache
+G:\C#\Sources\ColorPicker\ColorPicker\obj\Debug\ColorPicker.ColorPicker.resources
+G:\C#\Sources\ColorPicker\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+G:\C#\Sources\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.cache
+G:\C#\Sources\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csproj.CoreCompileInputs.cache
+G:\C#\Sources\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csproj.CopyComplete
+G:\C#\Sources\ColorPicker\ColorPicker\obj\Debug\ColorPicker.exe
+G:\C#\Sources\ColorPicker\ColorPicker\obj\Debug\ColorPicker.pdb
+G:\C#\Sources\ColorPicker\ColorPicker\bin\Debug\ColorSlider.dll
