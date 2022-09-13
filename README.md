@@ -1,1 +1,1 @@
-# Color-Picker-in-C-
+# Winforms ColorPicker
